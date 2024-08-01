@@ -15,7 +15,7 @@ La Programación Orientada a Objetos (POO) es un paradigma de programación que 
 ### Agenda Telefónica
 Este ejercicio consiste en crear una agenda telefónica de contactos utilizando la POO. Los contactos están definidos por un nombre y un teléfono. Una agenda de contactos permite realizar diversas operaciones como añadir, buscar, eliminar y listar contactos.
 
-### git clone https://github.com/ClemenPalazzo/TP3Array.git
+### git clone https://github.com/ClemenPalazzo/TP4POO.git
 
 ```javascript
 class Contacto {
